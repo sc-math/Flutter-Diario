@@ -1,0 +1,43 @@
+{
+  "learnhttp": {
+    "content": "Olá mundo!"
+  },
+  "journals": [
+    {
+      "id": "035920c0-fa6f-11ed-ad9e-8f17d48247db",
+      "content": "Aoba",
+      "created_at": "2023-05-24 17:10:08.746645",
+      "updated_at": "2023-05-24 17:10:08.746645"
+    },
+    {
+      "id": "0885be50-fa6f-11ed-ad9e-8f17d48247db",
+      "content": "eh oq",
+      "created_at": "2023-05-22 17:10:08.746645",
+      "updated_at": "2023-05-22 17:10:08.746645"
+    },
+    {
+      "id": "0cdb35c0-fa6f-11ed-ad9e-8f17d48247db",
+      "content": "Sabadoooooou",
+      "created_at": "2023-05-20 17:10:08.746645",
+      "updated_at": "2023-05-20 17:10:08.746645"
+    },
+    {
+      "id": "11220730-fa6f-11ed-ad9e-8f17d48247db",
+      "content": "Quinta dia de mercado",
+      "created_at": "2023-05-18 17:10:08.746645",
+      "updated_at": "2023-05-18 17:10:08.746645"
+    },
+    {
+      "id": "15781ae0-fa6f-11ed-ad9e-8f17d48247db",
+      "content": "Dormi o dia inteiro",
+      "created_at": "2023-05-21 17:10:08.746645",
+      "updated_at": "2023-05-21 17:10:08.746645"
+    },
+    {
+      "id": "46d048d0-03a0-11ee-92fd-81aefc81760e",
+      "content": "Algoritmo de Floyd Flodison.....",
+      "created_at": "2023-06-05 09:24:56.109165",
+      "updated_at": "2023-06-05 09:24:56.109165"
+    }
+  ]
+}
